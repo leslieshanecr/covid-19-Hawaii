@@ -1,6 +1,9 @@
 # covid-19-Hawaii
 Small Dataset on Covid-19  cases in Hawaii
 
+Dataset for Hawaii should be a .csv file that contains the following:
+ID - id of record
+
 Week 13 and 14-  
 Primary Global Data Source - https://github.com/CSSEGISandData/COVID-19
 NY Times Covid-19 Data Source - https://github.com/nytimes/covid-19-data
