@@ -4,6 +4,9 @@ Small Dataset on Covid-19  cases in Hawaii
 Dataset for Hawaii should be a .csv file that contains the following:
 ID - id of record
 
+1. Covid-Hawaii-Overall - Time series data for Hawaii by # cases adn # deaths - broken down by county (Hawaii, Honolulu, Kauai, Maui)
+2. Covid-Hawaii-Details - Time series data from HI DoH site, which includes oveall info plus # isolation, # released from hospital
+
 Week 13 and 14-  
 Primary Global Data Source - https://github.com/CSSEGISandData/COVID-19
 NY Times Covid-19 Data Source - https://github.com/nytimes/covid-19-data
