@@ -1,7 +1,7 @@
 # covid-19-Hawaii
 Small Dataset on Covid-19  cases in Hawaii
 
-strong>Week 13 and 14-</strong>  
+<strong>Week 13 and 14-</strong>  
 Overall Cases by State - ID, Date, Total Cases, Recovered, Deaths
 
 Confirmed Cases by County - ID, Date, Total Hawaii State, HI County, Honolulu,, Kauai, Maui, Pending 
