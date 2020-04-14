@@ -7,9 +7,13 @@ Dataset for Hawaii should be a .csv file that contains the following:
 2. Covid-Hawaii-Details - Time series data from HI DoH site, which includes oveall info plus # isolation, # released from hospital
 
 Week 13 and 14-  
-Primary Global Data Source - https://github.com/CSSEGISandData/COVID-19
-NY Times Covid-19 Data Source - https://github.com/nytimes/covid-19-data
-Hawaii Data Source - Hawaii DoH - https://health.hawaii.gov/coronavirusdisease2019/
+Overall Cases by State - ID, Date, Total Cases, Recovered, Deaths
+Confirmed Cases by County - ID, Date, Total Hawaii State, HI County, Honolulu,, Kauai, Maui, Pending 
+Google Colab Data Analysis - Hawaii State and Hi County Analysis and other analysis as you think appropriate
+
+Data Source for #1 - Use the time series data for US. GitHub for US from NY Times - https://github.com/debasisb/covid-19-data/blob/master/us-states.csv
+
+Data Source for #2 - County breakdown for US. GitHub for US from NY Times - https://github.com/debasisb/covid-19-data/blob/master/us-counties.csv
 
 Kaggle Covid-19 Open Research Dataset Challenge - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
