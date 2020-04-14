@@ -1,12 +1,7 @@
 # covid-19-Hawaii
 Small Dataset on Covid-19  cases in Hawaii
 
-Dataset for Hawaii should be a .csv file that contains the following:
-
-1. Covid-Hawaii-Overall - Time series data for Hawaii by # cases adn # deaths - broken down by county (Hawaii, Honolulu, Kauai, Maui)
-2. Covid-Hawaii-Details - Time series data from HI DoH site, which includes oveall info plus # isolation, # released from hospital
-
-<strong>Week 13 and 14-</strong>  
+strong>Week 13 and 14-</strong>  
 Overall Cases by State - ID, Date, Total Cases, Recovered, Deaths
 
 Confirmed Cases by County - ID, Date, Total Hawaii State, HI County, Honolulu,, Kauai, Maui, Pending 
