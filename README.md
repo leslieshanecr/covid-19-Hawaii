@@ -19,6 +19,6 @@ Data Source for #2 - County breakdown for US. GitHub for US from NY Times - http
 
 Kaggle Covid-19 Open Research Dataset Challenge - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
-Week 15 - Task 1 - What is known about transmission, incubation, and environmental stability? - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks?taskId=568
+<strong>Week 15</strong> - Task 1 - What is known about transmission, incubation, and environmental stability? - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks?taskId=568
 
-Week 16 - Task 2- What do we know about COVID-19 risk factors? - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks?taskId=558
+<strong>Week 16</strong> - Task 2- What do we know about COVID-19 risk factors? - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks?taskId=558
